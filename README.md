@@ -77,7 +77,7 @@ This project is an **automatic cat feeder** that uses a **NodeMCU (ESP8266)**, a
 
 ---
 
-## 📸 Preview Vidio
+## 📸 Preview Video
 
 (https://youtu.be/-YEiBKsmXJ8?si=n2uzap_7Qo8nwFR1) 
 
